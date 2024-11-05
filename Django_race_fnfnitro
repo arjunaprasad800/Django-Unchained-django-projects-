@@ -1,0 +1,435 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fast & Furious : Nitro [Online]</title>
+    
+    <h1> Press 'Enter To Start'</h1>
+        
+</head>
+<body>
+        <img src="...." alt=""></img>
+</body>
+</html>
+
+
+.title{
+    image-rendering: pixelated;
+    color:crimson;
+
+    width: max-content;
+    lenght: max-content;
+    text-decoration: solid;
+    text-align: center;
+}
+
+
+
+.h2{text-align: center;
+    width: fit-content;
+    lenght: fit-content;
+    color:#6610f2
+    }
+
+.h3 {
+    text-align: center;
+    width: fit-content;
+    lenght: fit-content;
+    color: #1f1929
+}
+.title0 {
+    text-indent: 2em;
+    text-decoration-color: burlywood;
+    width: fit-content;
+    lenght: fit-content;
+    color: rgb(30, 210, 111);
+}
+.title1 {
+    text-indent: 2em;
+    text-decoration-color: burlywood;
+    width: fit-content;
+    lenght: fit-content;
+    color: rgb(30, 114, 210);
+}
+.title2 {
+    text-indent: 2em;
+    text-decoration-color: burlywood;
+    width: fit-content;
+    lenght: fit-content;
+    color: rgb(210, 30, 54);
+}
+.title3 {
+    text-indent: 2em;
+    text-decoration-color: burlywood;
+    width: fit-content;
+    lenght: fit-content;
+    color: rgb(210, 30, 99);
+}
+.title4{
+    text-indent: 2em;
+    text-decoration-color: burlywood;
+    width: fit-content;
+    lenght:fit-content;
+    color: chocolate;
+}
+
+
+
+
+import os
+import math
+import sys
+
+def Personality(Arjuna,Razzak, Sabby, Hani, Manik):
+    
+    Arjuna = os.access(1)
+    def body_arjuna(ear, nose,torso, legs, jeans,shirt):
+        hair = os.access('$blue-500')
+        face = os.access('$pale-...')
+        eye = os.access('round','$black-...')
+        mouth= os.access('centred','$pale-...')
+        teeth = os.access('fixed','$white-...')
+        ear = os.access('aligned','$pale-...')
+        nose = os.access('fixed,''$pale-...')
+        torso= os.access('fixed','$pale-...')
+        jeans = os.access('black')
+        shirt = os.access('white')
+     
+    if os.access(1)==Arjuna:
+        return Arjuna
+    else:
+        return False
+def Personality(Razzak):
+    
+    Razzak = os.access(2)
+    def body_razzak(ear, nose,torso, legs, jeans,shirt):
+        hair = os.access('$black-500')
+        face = os.access('$pale-...')
+        eye = os.access('round','$black-...')
+        mouth= os.access('centred','$pale-...')
+        teeth = os.access('fixed','$white-...')
+        ear = os.access('aligned','$pale-...')
+        nose = os.access('fixed,''$pale-...')
+        torso= os.access('fixed','$pale-...')
+        jeans = os.access('black')
+        shirt = os.access('blue')
+     
+    if os.access(2)==Razzak:
+        return Razzak
+    else:
+        return False
+    
+def Personality(Sabby):
+    
+    Sabby = os.access(3)
+    def body_sabby(ear, nose,torso, legs, jeans,shirt):
+        hair = os.access('$red-500')
+        face = os.access('$pale-...')
+        eye = os.access('round','$black-...')
+        mouth= os.access('centred','$pale-...')
+        teeth = os.access('fixed','$white-...')
+        ear = os.access('aligned','$pale-...')
+        nose = os.access('fixed,''$pale-...')
+        torso= os.access('fixed','$pale-...')
+        jeans = os.access('black')
+        shirt = os.access('green')
+     
+    if os.access(3)==Sabby:
+        return Sabby
+    else:
+        return False
+
+def Personality(Hani):
+    
+    Hani = os.access(4)
+    def body_hani(ear, nose,torso, legs, jeans,shirt):
+        hair = os.access('$blue-500')
+        face = os.access('$pale-...')
+        eye = os.access('round','$black-...')
+        mouth= os.access('centred','$pale-...')
+        teeth = os.access('fixed','$white-...')
+        ear = os.access('aligned','$pale-...')
+        nose = os.access('fixed,''$pale-...')
+        torso= os.access('fixed','$pale-...')
+        jeans = os.access('white')
+        shirt = os.access('red')
+     
+    if os.access(4)==Hani:
+        return Hani
+    else:
+        return False
+
+def Personality(Manik):
+    
+    Manik = os.access(5)
+    def body_manik(ear, nose,torso, legs, jeans,shirt):
+        hair = os.access('$blue-500')
+        face = os.access('$pale-...')
+        eye = os.access('round','$black-...')
+        mouth= os.access('centred','$pale-...')
+        teeth = os.access('fixed','$white-...')
+        ear = os.access('aligned','$pale-...')
+        nose = os.access('fixed,''$pale-...')
+        torso= os.access('fixed','$pale-...')
+        jeans = os.access('black')
+        shirt = os.access('white')
+     
+    if os.access(5)==Manik:
+        return Manik
+    else:
+        return False
+
+
+
+def Start(__Start__,pause):
+    __Start__ = pause.Start(15)
+Start.py()
+
+def walk(math.asin,math.acos,math.atan,math.acot):
+    
+    math= math.asin(0,100)
+    math=math.acos(0,100)
+    math=math.atan(0,100)
+    math= math.acot(0,100)
+    if math.asin(0,100)==walk:
+        return math.asin(0,100)
+    elif math.acos(0,100)==walk:
+        return math.acos(0,100)
+    elif math.atan(0,100)==walk:
+        return math.atan(0,100)
+    elif math.acot(0,100)==walk:
+        return math.acot(0,100)
+    
+    else: 
+        return 0
+
+def intearaction(weapons, cola, updates,grab):
+    grab = os.weapon('color', 'action', 'size')
+    cola = os.cola('color','action')
+    updates= os.updates('color', 'action', 'size')
+ ### number of actions can be constructed by this method####
+
+math.__package__()
+sys.config()
+
+
+import os
+import math
+import sys
+
+def Personality(Arjuna):
+    
+    Arjuna = os.access(1)
+    def body_arjuna(ear, nose,torso, legs, jeans,shirt):
+        hair = os.access('$blue-500')
+        face = os.access('$pale-...')
+        eye = os.access('round','$black-...')
+        mouth= os.access('centred','$pale-...')
+        teeth = os.access('fixed','$white-...')
+        ear = os.access('aligned','$pale-...')
+        nose = os.access('fixed,''$pale-...')
+        torso= os.access('fixed','$pale-...')
+        jeans = os.access('black')
+        shirt = os.access('white')
+     
+    if os.access(1)==Arjuna:
+        return Arjuna
+    else:
+        return False
+def Personality(Razzak):
+    
+    Razzak = os.access(2)
+    def body_razzak(ear, nose,torso, legs, jeans,shirt):
+        hair = os.access('$black-500')
+        face = os.access('$pale-...')
+        eye = os.access('round','$black-...')
+        mouth= os.access('centred','$pale-...')
+        teeth = os.access('fixed','$white-...')
+        ear = os.access('aligned','$pale-...')
+        nose = os.access('fixed,''$pale-...')
+        torso= os.access('fixed','$pale-...')
+        jeans = os.access('black')
+        shirt = os.access('blue')
+     
+    if os.access(2)==Razzak:
+        return Razzak
+    else:
+        return False
+    
+def Personality(Sabby):
+    
+    Sabby = os.access(3)
+    def body_sabby(ear, nose,torso, legs, jeans,shirt):
+        hair = os.access('$red-500')
+        face = os.access('$pale-...')
+        eye = os.access('round','$black-...')
+        mouth= os.access('centred','$pale-...')
+        teeth = os.access('fixed','$white-...')
+        ear = os.access('aligned','$pale-...')
+        nose = os.access('fixed,''$pale-...')
+        torso= os.access('fixed','$pale-...')
+        jeans = os.access('black')
+        shirt = os.access('green')
+     
+    if os.access(3)==Sabby:
+        return Sabby
+    else:
+        return False
+
+def Personality(Hani):
+    
+    Hani = os.access(4)
+    def body_hani(ear, nose,torso, legs, jeans,shirt):
+        hair = os.access('$blue-500')
+        face = os.access('$pale-...')
+        eye = os.access('round','$black-...')
+        mouth= os.access('centred','$pale-...')
+        teeth = os.access('fixed','$white-...')
+        ear = os.access('aligned','$pale-...')
+        nose = os.access('fixed,''$pale-...')
+        torso= os.access('fixed','$pale-...')
+        jeans = os.access('white')
+        shirt = os.access('red')
+     
+    if os.access(4)==Hani:
+        return Hani
+    else:
+        return False
+
+def Personality(Manik):
+    
+    Manik = os.access(5)
+    def body_manik(ear, nose,torso, legs, jeans,shirt):
+        hair = os.access('$blue-500')
+        face = os.access('$pale-...')
+        eye = os.access('round','$black-...')
+        mouth= os.access('centred','$pale-...')
+        teeth = os.access('fixed','$white-...')
+        ear = os.access('aligned','$pale-...')
+        nose = os.access('fixed,''$pale-...')
+        torso= os.access('fixed','$pale-...')
+        jeans = os.access('black')
+        shirt = os.access('white')
+     
+    if os.access(5)==Manik:
+        return Manik
+    else:
+        return False
+
+
+
+def Start(__Start__,pause):
+    __Start__ = pause.Start(15)
+Start.py()
+
+def walk(math.asin,math.acos,math.atan,math.acot):
+    
+    math= math.asin(0,100)
+    math=math.acos(0,100)
+    math=math.atan(0,100)
+    math= math.acot(0,100)
+    if math.asin(0,100)==walk:
+        return math.asin(0,100)
+    elif math.acos(0,100)==walk:
+        return math.acos(0,100)
+    elif math.atan(0,100)==walk:
+        return math.atan(0,100)
+    elif math.acot(0,100)==walk:
+        return math.acot(0,100)
+    
+    else: 
+        return 0
+
+def intearaction(weapons, cola, updates,grab):
+    grab = os.weapon('color', 'action', 'size')
+    cola = os.cola('color','action')
+    updates= os.updates('color', 'action', 'size')
+ ### number of actions can be constructed by this method####
+
+
+
+
+
+
+
+
+
+
+def start_line(racestarted,racenotstarted,delay):
+    while delay==5:
+        return racestarted
+    else:
+        return racesnotstarted
+
+
+
+    def Personality_race(name,car,car_right,car_left,car_drift, car_jump,car_throttle,car_nos,car_gearchange):
+        car = name.access()
+        name.access = car_right(1)
+        name.access = car_left(2)
+        name.access = car_drift(3)
+        name.access = car_jump(4)
+        name.access = car_throttle(5)
+        name.access = car_nos(6)
+        name.access = car_gearchange(7)
+#### number of access and actions can be included###
+
+        def points_increased(car_jump,car_throttle,car_nos,car_gearchange):
+            points_increased = 2
+        if car_jump ==4:
+            print("acquired_points'2'",points_increased)
+        elif car_throttle==5:
+            print("acquired points '2'",points_increased)
+        elif car_nos ==6:
+            print("acquired points '2'",points_increased)
+        elif car_gearchange(7):
+            print ("acquired points '2'", points_increased)
+        def challenges():
+            drift = 3
+        if drift==(3,3):
+            print("challenge_completed")
+        else:
+            print("challenge_not_completed")
+    
+            jump = 4
+        if jump==(3,4):
+            print("challenge_completed")
+        else:
+            print("challenge_not_completed") 
+        
+            throttle = 5
+        if throttle== (3,5):
+            print("challenge_completed")
+        else:
+            print("challenge_not_completed")
+
+            nos = 6
+        if nos== (3,6):
+            print("challenge_completed")
+        else:
+            print("challenge_not_completed")  
+
+            gearchange = 7
+        if gearchange== (3,7):
+            print("challenge_completed")
+        else:
+            print("challenge_not_completed")
+
+def finishline(0,raceended):            
+            return raceended
+
+
+
+ 
+
+
+        ## n - number of attributes can be added.
+
+    def winners():
+        name.access()
+        print("Challenge Completed")
+math.__package__()
+sys.config()
+
+
+
